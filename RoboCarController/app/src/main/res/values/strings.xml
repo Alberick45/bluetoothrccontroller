@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RoboCar Controller</string>
+    <string name="device_scan_title">Select Bluetooth Device</string>
+    <string name="bluetooth_not_enabled">Bluetooth is not enabled</string>
+    <string name="enable_bluetooth">Enable Bluetooth</string>
+    <string name="scanning_for_devices">Scanning for devices...</string>
+    <string name="no_devices_found">No devices found</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connected">Connected</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="forward">Forward</string>
+    <string name="backward">Backward</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="stop">Stop</string>
+    <string name="pick">Pick</string>
+    <string name="drop">Drop</string>
+    <string name="lift_1">L1</string>
+    <string name="lift_2">L2</string>
+    <string name="lift_3">L3</string>
+    <string name="lift_4">L4</string>
+    <string name="command_log">Command Log:</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="joystick_control">Joystick Control</string>
+    <string name="button_control">Button Control</string>
+</resources>
